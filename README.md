@@ -24,7 +24,7 @@ Demo Data: Sample employees and expenses for quick testing.
 
 Clone the repository:
 
-git clone https://github.com/your-username/odoo-reimbursement-management.git
+git clone https://github.com/KartikiGawade/odoo-reimbursement-management.git
 
 Place the module inside your Odoo addons directory.
 
